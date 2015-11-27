@@ -1,6 +1,6 @@
 # encoding: utf-8
 require 'spec_helper'
-require "logstash/filters/geosite"
+#require "logstash/filters/geosite"
 
 describe LogStash::Filters::GeoSite do
   describe "Set to Hello World" do
